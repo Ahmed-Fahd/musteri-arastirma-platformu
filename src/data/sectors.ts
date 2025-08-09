@@ -1,0 +1,19 @@
+export const sectors = [
+  'İnşaat',
+  'Gıda',
+  'Tekstil',
+  'Otomotiv',
+  'Makine',
+  'Kimya',
+  'Enerji',
+  'Teknoloji',
+  'Sağlık',
+  'Eğitim',
+  'Turizm',
+  'Finans',
+  'Tarım',
+  'Madencilik',
+  'Lojistik',
+  'İletişim',
+  'Diğer'
+];
